@@ -8,8 +8,8 @@ Project URL: http://ec2-18-222-204-142.us-east-2.compute.amazonaws.com:8080/CS33
 Demo Video: https://drive.google.com/file/d/1VfYlj5IET7wDV-Qyrfw-ls3VVkWwWUuX/view?usp=sharing
 
 AWS RDS: cs336db.cnp0zklnvjct.us-east-2.rds.amazonaws.com:3306/auctionsystem
-Username: admin
-Password: cs336prince
+Username:
+Password: 
 
 Credentials:
 
